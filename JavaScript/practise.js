@@ -20,4 +20,3 @@ let user = {
 // landmark: 'Bandra'
 
 // }
-study properly
