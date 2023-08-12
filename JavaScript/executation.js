@@ -34,8 +34,9 @@
 
 // console.log(b);
 // 
-let a = 40;
-var a = 30;
+// let a = 40;
+// var a = 30;
 
 console.log(a);
+var a=20;
 
